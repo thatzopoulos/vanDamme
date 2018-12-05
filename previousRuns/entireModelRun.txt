@@ -1,0 +1,274 @@
+RUNNING ORIGINAL MODELS
+
+basicRun
+Loading model from:  models/testModels/basic-100-epochs-model.pth
+======================================
+Total score:  70.0
+Total score:  82.0
+Total score:  36.0
+Total score:  70.0
+Total score:  94.0
+Total score:  58.0
+Total score:  70.0
+Total score:  70.0
+Total score:  82.0
+Total score:  82.0
+Average Score:  71.4
+
+defendTheCenter
+Loading model from:  models/testModels/defendTheCenter-100-epochs-model.pth
+======================================
+Total score:  3.0
+Total score:  5.0
+Total score:  4.0
+Total score:  4.0
+Total score:  3.0
+Total score:  4.0
+Total score:  2.0
+Total score:  3.0
+Total score:  4.0
+Total score:  3.0
+Average Score:  3.5
+
+healthGathering
+Loading model from:  models/testModels/healthGathering-100-epochs-model.pth
+======================================
+Total score:  281.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Average Score:  282.8
+
+deadlyCorridor
+Loading model from:  models/testModels/deadlyCorridor-100-epochs-model.pth
+======================================
+Total score:  63.39570617675781
+Total score:  394.19691467285156
+Total score:  383.2796325683594
+Total score:  99.06773376464844
+Total score:  92.57931518554688
+Total score:  95.34771728515625
+Total score:  379.7388153076172
+Total score:  679.2993316650391
+Total score:  105.69488525390625
+Total score:  114.24267578125
+Average Score:  240.68427276611328
+
+myWayHome
+Loading model from:  models/testModels/myWayHome-100-epochs-model.pth
+======================================
+Total score:  -0.20969999999999323
+Total score:  -0.2098999999999932
+Total score:  0.9659000000000001
+Total score:  -0.2098999999999932
+Total score:  0.9425999999999994
+Total score:  -0.20959999999999324
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Average Score:  0.022980000000005375
+
+defendTheLine
+Loading model from:  models/testModels/defendTheLine-100-epochs-model.pth
+======================================
+Total score:  9.0
+Total score:  2.0
+Total score:  6.0
+Total score:  10.0
+Total score:  5.0
+Total score:  6.0
+Total score:  7.0
+Total score:  16.0
+Total score:  9.0
+Total score:  8.0
+Average Score:  7.8
+
+predictPosition
+Loading model from:  models/testModels/predictPosition-100-epochs-model.pth
+======================================
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.08000000000000006
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Average Score:  -0.05840000000000004
+
+rocketBasic
+Loading model from:  models/testModels/rocketbasic-100-epochs-model.pth
+======================================
+Total score:  65.0
+Total score:  65.0
+Total score:  -24.0
+Total score:  53.0
+Total score:  65.0
+Total score:  53.0
+Total score:  12.0
+Total score:  65.0
+Total score:  65.0
+Total score:  41.0
+Average Score:  46.0
+
+takeCover
+Loading model from:  models/testModels/takeCover-100-epochs-model.pth
+======================================
+Total score:  137.0
+Total score:  308.0
+Total score:  130.0
+Total score:  186.0
+Total score:  114.0
+Total score:  152.0
+Total score:  223.0
+Total score:  142.0
+Total score:  187.0
+Total score:  186.0
+Average Score:  176.5
+
+
+RUNNING STEP LEARNING MODELS
+
+basicRun
+Loading model from:  models/basic-100-epochs-model.pth
+======================================
+Total score:  70.0
+Total score:  63.0
+Total score:  94.0
+Total score:  41.0
+Total score:  24.0
+Total score:  94.0
+Total score:  53.0
+Total score:  70.0
+Total score:  70.0
+Total score:  58.0
+Average Score:  63.7
+
+defendTheCenter
+Loading model from:  models/defendTheCenter-100-epochs-model.pth
+======================================
+Total score:  2.0
+Total score:  0.0
+Total score:  2.0
+Total score:  1.0
+Total score:  2.0
+Total score:  3.0
+Total score:  3.0
+Total score:  3.0
+Total score:  2.0
+Total score:  3.0
+Average Score:  2.1
+
+healthGathering
+Loading model from:  models/healthGathering-100-epochs-model.pth
+======================================
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Average Score:  283.0
+
+deadlyCorridor
+Loading model from:  models/deadlyCorridor-100-epochs-model.pth
+======================================
+Total score:  75.92106628417969
+Total score:  55.60911560058594
+Total score:  75.31427001953125
+Total score:  397.1853332519531
+Total score:  849.1350708007812
+Total score:  430.6317901611328
+Total score:  113.12272644042969
+Total score:  474.91802978515625
+Total score:  375.3945007324219
+Total score:  93.617431640625
+Average Score:  294.0849334716797
+
+myWayHome
+Loading model from:  models/myWayHome-100-epochs-model.pth
+======================================
+Total score:  -0.20979999999999321
+Total score:  -0.2098999999999932
+Total score:  0.8484000000000004
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Average Score:  -0.10405999999999385
+
+defendTheLine
+Loading model from:  models/defendTheLine-100-epochs-model.pth
+======================================
+Total score:  3.0
+Total score:  8.0
+Total score:  4.0
+Total score:  3.0
+Total score:  7.0
+Total score:  5.0
+Total score:  4.0
+Total score:  6.0
+Total score:  5.0
+Total score:  6.0
+Average Score:  5.1
+
+predictPosition
+Loading model from:  models/predictPosition-100-epochs-model.pth
+======================================
+Total score:  -0.06800000000000005
+Total score:  -0.06800000000000005
+Total score:  0.9369999999999999
+Total score:  0.958
+Total score:  -0.06800000000000005
+Total score:  -0.06800000000000005
+Total score:  -0.06800000000000005
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.06800000000000005
+Average Score:  0.13749999999999996
+
+rocketBasic
+Loading model from:  models/rocketbasic-100-epochs-model.pth
+======================================
+Total score:  65.0
+Total score:  12.0
+Total score:  12.0
+Total score:  12.0
+Total score:  12.0
+Total score:  29.0
+Total score:  53.0
+Total score:  7.0
+Total score:  65.0
+Total score:  53.0
+Average Score:  32.0
+
+takeCover
+Loading model from:  models/takeCover-100-epochs-model.pth
+======================================
+Total score:  100.0
+Total score:  183.0
+Total score:  115.0
+Total score:  117.0
+Total score:  115.0
+Total score:  157.0
+Total score:  154.0
+Total score:  170.0
+Total score:  177.0
+Total score:  177.0
+Average Score:  146.5

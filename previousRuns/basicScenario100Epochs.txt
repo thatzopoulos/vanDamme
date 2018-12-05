@@ -1,0 +1,565 @@
+Initializing doom...
+Doom initialized.
+Starting the training!
+
+Epoch 1
+-------
+Training...
+136 training episodes played.
+Results: mean: -138.6 +/- 176.6, min: -385.0, max: 95.0,
+
+Testing...
+Results: mean: -245.9 +/- 222.4, min: -410.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 0.67 minutes
+
+Epoch 2
+-------
+Training...
+135 training episodes played.
+Results: mean: -144.0 +/- 187.0, min: -390.0, max: 95.0,
+
+Testing...
+Results: mean: -242.3 +/- 230.0, min: -410.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 1.28 minutes
+
+Epoch 3
+-------
+Training...
+146 training episodes played.
+Results: mean: -119.7 +/- 182.4, min: -380.0, max: 95.0,
+
+Testing...
+Results: mean: -274.9 +/- 210.4, min: -410.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 1.89 minutes
+
+Epoch 4
+-------
+Training...
+138 training episodes played.
+Results: mean: -134.6 +/- 176.4, min: -390.0, max: 95.0,
+
+Testing...
+Results: mean: -267.8 +/- 213.4, min: -410.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 2.46 minutes
+
+Epoch 5
+-------
+Training...
+128 training episodes played.
+Results: mean: -157.1 +/- 182.1, min: -390.0, max: 95.0,
+
+Testing...
+Results: mean: -220.2 +/- 232.8, min: -410.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 2.96 minutes
+
+Epoch 6
+-------
+Training...
+139 training episodes played.
+Results: mean: -131.8 +/- 178.3, min: -385.0, max: 95.0,
+
+Testing...
+Results: mean: -262.5 +/- 217.6, min: -410.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 3.46 minutes
+
+Epoch 7
+-------
+Training...
+135 training episodes played.
+Results: mean: -141.0 +/- 180.3, min: -380.0, max: 95.0,
+
+Testing...
+Results: mean: -268.5 +/- 218.2, min: -410.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 4.10 minutes
+
+Epoch 8
+-------
+Training...
+135 training episodes played.
+Results: mean: -140.4 +/- 173.5, min: -385.0, max: 95.0,
+
+Testing...
+Results: mean: -226.0 +/- 233.7, min: -410.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 4.71 minutes
+
+Epoch 9
+-------
+Training...
+135 training episodes played.
+Results: mean: -145.8 +/- 179.7, min: -395.0, max: 95.0,
+
+Testing...
+Results: mean: -205.4 +/- 237.9, min: -410.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 5.36 minutes
+
+Epoch 10
+-------
+Training...
+161 training episodes played.
+Results: mean: -102.3 +/- 182.5, min: -390.0, max: 95.0,
+
+Testing...
+Results: mean: -235.2 +/- 233.2, min: -410.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 5.97 minutes
+
+Epoch 11
+-------
+Training...
+152 training episodes played.
+Results: mean: -113.0 +/- 183.1, min: -395.0, max: 95.0,
+
+Testing...
+Results: mean: -206.6 +/- 223.9, min: -385.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 6.60 minutes
+
+Epoch 12
+-------
+Training...
+144 training episodes played.
+Results: mean: -132.8 +/- 194.2, min: -390.0, max: 95.0,
+
+Testing...
+Results: mean: -155.4 +/- 227.9, min: -395.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 7.26 minutes
+
+Epoch 13
+-------
+Training...
+153 training episodes played.
+Results: mean: -114.8 +/- 180.4, min: -390.0, max: 95.0,
+
+Testing...
+Results: mean: -154.3 +/- 222.6, min: -400.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 7.87 minutes
+
+Epoch 14
+-------
+Training...
+161 training episodes played.
+Results: mean: -103.0 +/- 183.3, min: -385.0, max: 95.0,
+
+Testing...
+Results: mean: -134.8 +/- 234.5, min: -410.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 8.52 minutes
+
+Epoch 15
+-------
+Training...
+168 training episodes played.
+Results: mean: -87.0 +/- 163.0, min: -390.0, max: 95.0,
+
+Testing...
+Results: mean: -125.4 +/- 223.2, min: -410.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 9.15 minutes
+
+Epoch 16
+-------
+Training...
+164 training episodes played.
+Results: mean: -93.3 +/- 178.5, min: -390.0, max: 95.0,
+
+Testing...
+Results: mean: -108.3 +/- 213.3, min: -390.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 9.73 minutes
+
+Epoch 17
+-------
+Training...
+183 training episodes played.
+Results: mean: -69.4 +/- 167.5, min: -395.0, max: 95.0,
+
+Testing...
+Results: mean: -32.2 +/- 174.0, min: -355.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 10.35 minutes
+
+Epoch 18
+-------
+Training...
+200 training episodes played.
+Results: mean: -52.0 +/- 161.1, min: -370.0, max: 95.0,
+
+Testing...
+Results: mean: 29.8 +/- 94.8, min: -395.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 10.93 minutes
+
+Epoch 19
+-------
+Training...
+302 training episodes played.
+Results: mean: 7.5 +/- 110.6, min: -375.0, max: 95.0,
+
+Testing...
+Results: mean: 61.2 +/- 40.2, min: -81.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 11.53 minutes
+
+Epoch 20
+-------
+Training...
+325 training episodes played.
+Results: mean: 16.0 +/- 101.7, min: -375.0, max: 95.0,
+
+Testing...
+Results: mean: 69.7 +/- 23.4, min: -23.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 12.05 minutes
+
+Epoch 21
+-------
+Training...
+379 training episodes played.
+Results: mean: 31.6 +/- 80.7, min: -370.0, max: 95.0,
+
+Testing...
+Results: mean: 36.4 +/- 110.6, min: -345.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 12.63 minutes
+
+Epoch 22
+-------
+Training...
+393 training episodes played.
+Results: mean: 35.7 +/- 76.9, min: -360.0, max: 95.0,
+
+Testing...
+Results: mean: 66.2 +/- 22.2, min: -5.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 13.48 minutes
+
+Epoch 23
+-------
+Training...
+443 training episodes played.
+Results: mean: 44.6 +/- 58.5, min: -360.0, max: 95.0,
+
+Testing...
+Results: mean: 63.4 +/- 63.2, min: -365.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 14.16 minutes
+
+Epoch 24
+-------
+Training...
+466 training episodes played.
+Results: mean: 47.8 +/- 65.5, min: -365.0, max: 95.0,
+
+Testing...
+Results: mean: 68.0 +/- 21.4, min: -38.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 14.78 minutes
+
+Epoch 25
+-------
+Training...
+469 training episodes played.
+Results: mean: 48.9 +/- 63.3, min: -360.0, max: 95.0,
+
+Testing...
+Results: mean: 75.0 +/- 15.3, min: 26.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 15.38 minutes
+
+Epoch 26
+-------
+Training...
+561 training episodes played.
+Results: mean: 59.9 +/- 40.0, min: -355.0, max: 95.0,
+
+Testing...
+Results: mean: 70.7 +/- 16.0, min: 37.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 16.04 minutes
+
+Epoch 27
+-------
+Training...
+596 training episodes played.
+Results: mean: 63.1 +/- 33.1, min: -240.0, max: 95.0,
+
+Testing...
+Results: mean: 73.1 +/- 17.5, min: 0.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 16.82 minutes
+
+Epoch 28
+-------
+Training...
+615 training episodes played.
+Results: mean: 64.5 +/- 29.5, min: -166.0, max: 95.0,
+
+Testing...
+Results: mean: 70.5 +/- 18.9, min: 7.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 17.48 minutes
+
+Epoch 29
+-------
+Training...
+623 training episodes played.
+Results: mean: 65.3 +/- 30.2, min: -182.0, max: 95.0,
+
+Testing...
+Results: mean: 74.2 +/- 15.2, min: 32.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 18.15 minutes
+
+Epoch 30
+-------
+Training...
+634 training episodes played.
+Results: mean: 66.1 +/- 26.5, min: -155.0, max: 95.0,
+
+Testing...
+Results: mean: 72.1 +/- 21.9, min: -10.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 18.85 minutes
+
+Epoch 31
+-------
+Training...
+678 training episodes played.
+Results: mean: 68.8 +/- 28.0, min: -345.0, max: 95.0,
+
+Testing...
+Results: mean: 72.7 +/- 17.1, min: -11.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 19.54 minutes
+
+Epoch 32
+-------
+Training...
+709 training episodes played.
+Results: mean: 71.0 +/- 22.1, min: -228.0, max: 95.0,
+
+Testing...
+Results: mean: 76.2 +/- 13.2, min: 37.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 20.23 minutes
+
+Epoch 33
+-------
+Training...
+712 training episodes played.
+Results: mean: 71.5 +/- 20.3, min: -67.0, max: 95.0,
+
+Testing...
+Results: mean: 73.9 +/- 14.2, min: 38.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 20.94 minutes
+
+Epoch 34
+-------
+Training...
+682 training episodes played.
+Results: mean: 69.6 +/- 26.6, min: -340.0, max: 95.0,
+
+Testing...
+Results: mean: 76.4 +/- 14.9, min: 42.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 21.55 minutes
+
+Epoch 35
+-------
+Training...
+721 training episodes played.
+Results: mean: 72.3 +/- 18.6, min: -37.0, max: 95.0,
+
+Testing...
+Results: mean: 74.0 +/- 14.6, min: 20.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 22.21 minutes
+
+Epoch 36
+-------
+Training...
+685 training episodes played.
+Results: mean: 70.2 +/- 25.8, min: -201.0, max: 95.0,
+
+Testing...
+Results: mean: 76.3 +/- 14.1, min: 20.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 22.75 minutes
+
+Epoch 37
+-------
+Training...
+684 training episodes played.
+Results: mean: 69.9 +/- 26.0, min: -185.0, max: 95.0,
+
+Testing...
+Results: mean: 74.9 +/- 16.7, min: 11.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 23.23 minutes
+
+Epoch 38
+-------
+Training...
+721 training episodes played.
+Results: mean: 71.7 +/- 24.5, min: -315.0, max: 95.0,
+
+Testing...
+Results: mean: 75.3 +/- 15.1, min: 4.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 23.65 minutes
+
+Epoch 39
+-------
+Training...
+713 training episodes played.
+Results: mean: 71.5 +/- 20.2, min: -57.0, max: 95.0,
+
+Testing...
+Results: mean: 71.8 +/- 42.6, min: -320.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 24.08 minutes
+
+Epoch 40
+-------
+Training...
+724 training episodes played.
+Results: mean: 72.1 +/- 19.2, min: -57.0, max: 95.0,
+
+Testing...
+Results: mean: 74.3 +/- 13.1, min: 42.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 24.50 minutes
+
+Epoch 41
+-------
+Training...
+710 training episodes played.
+Results: mean: 71.1 +/- 19.9, min: -43.0, max: 95.0,
+
+Testing...
+Results: mean: 76.4 +/- 13.8, min: 11.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 25.14 minutes
+
+Epoch 42
+-------
+Training...
+702 training episodes played.
+Results: mean: 71.0 +/- 23.6, min: -233.0, max: 95.0,
+
+Testing...
+Results: mean: 73.8 +/- 14.4, min: 38.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 25.86 minutes
+
+Epoch 43
+-------
+Training...
+709 training episodes played.
+Results: mean: 71.3 +/- 20.8, min: -64.0, max: 95.0,
+
+Testing...
+Results: mean: 77.0 +/- 15.0, min: 8.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 26.53 minutes
+
+Epoch 44
+-------
+Training...
+726 training episodes played.
+Results: mean: 72.2 +/- 19.4, min: -33.0, max: 95.0,
+
+Testing...
+Results: mean: 76.3 +/- 17.5, min: 4.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 27.08 minutes
+
+Epoch 45
+-------
+Training...
+735 training episodes played.
+Results: mean: 72.8 +/- 19.0, min: -47.0, max: 95.0,
+
+Testing...
+Results: mean: 74.8 +/- 14.6, min: -4.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 27.66 minutes
+
+Epoch 46
+-------
+Training...
+701 training episodes played.
+Results: mean: 71.1 +/- 19.4, min: -52.0, max: 95.0,
+
+Testing...
+Results: mean: 78.1 +/- 11.8, min: 45.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 28.27 minutes
+
+Epoch 47
+-------
+Training...
+715 training episodes played.
+Results: mean: 71.7 +/- 21.1, min: -37.0, max: 95.0,
+
+Testing...
+Results: mean: 78.0 +/- 14.8, min: 32.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 28.79 minutes
+
+Epoch 48
+-------
+Training...
+723 training episodes played.
+Results: mean: 72.1 +/- 20.7, min: -98.0, max: 95.0,
+
+Testing...
+Results: mean: 75.5 +/- 14.3, min: 4.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 29.40 minutes
+
+Epoch 49
+-------
+Training...
+770 training episodes played.
+Results: mean: 74.4 +/- 18.2, min: -62.0, max: 95.0,
+
+Testing...
+Results: mean: 75.2 +/- 14.9, min: 8.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 30.01 minutes
+
+Epoch 50
+-------
+Training...
+758 training episodes played.
+Results: mean: 73.9 +/- 19.0, min: -51.0, max: 95.0,
+
+Testing...
+Results: mean: 76.7 +/- 13.6, min: 42.0 max: 95.0
+Saving the network weights to: models/model-basic-scenario.pth
+Total elapsed time: 30.86 minutes
+======================================
+Training finished. Beginning the Kumite
+Total score:  94.0
+Total score:  22.0
+Total score:  94.0
+Total score:  70.0
+Total score:  24.0
+Total score:  82.0
+Total score:  58.0
+Total score:  22.0
+Total score:  94.0
+Total score:  94.0

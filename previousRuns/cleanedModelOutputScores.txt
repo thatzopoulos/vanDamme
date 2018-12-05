@@ -1,0 +1,219 @@
+RUNNING ORIGINAL MODELS
+basicRun
+======================================
+Total score:  65.0
+Total score:  58.0
+Total score:  70.0
+Total score:  94.0
+Total score:  94.0
+Total score:  58.0
+Total score:  94.0
+Total score:  82.0
+Total score:  82.0
+Total score:  82.0
+defendTheCenter
+======================================
+Total score:  4.0
+Total score:  3.0
+Total score:  3.0
+Total score:  3.0
+Total score:  4.0
+Total score:  4.0
+Total score:  3.0
+Total score:  3.0
+Total score:  4.0
+Total score:  4.0
+healthGathering
+======================================
+Total score:  282.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+deadlyCorridor
+======================================
+Total score:  41.19407653808594
+Total score:  366.0043182373047
+Total score:  130.11502075195312
+Total score:  59.866485595703125
+Total score:  156.5675811767578
+Total score:  413.25115966796875
+Total score:  112.73995971679688
+Total score:  339.83738708496094
+Total score:  151.2248992919922
+Total score:  456.2051544189453
+myWayHome
+======================================
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.20979999999999321
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+defendTheLine
+======================================
+Total score:  5.0
+Total score:  6.0
+Total score:  5.0
+Total score:  7.0
+Total score:  10.0
+Total score:  8.0
+Total score:  9.0
+Total score:  13.0
+Total score:  5.0
+Total score:  7.0
+predictPosition
+======================================
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+rocketBasic
+======================================
+Total score:  65.0
+Total score:  65.0
+Total score:  53.0
+Total score:  65.0
+Total score:  53.0
+Total score:  53.0
+Total score:  65.0
+Total score:  17.0
+Total score:  65.0
+Total score:  65.0
+takeCover
+======================================
+Total score:  217.0
+Total score:  107.0
+Total score:  320.0
+Total score:  107.0
+Total score:  112.0
+Total score:  108.0
+Total score:  104.0
+Total score:  121.0
+Total score:  162.0
+Total score:  133.0
+
+RUNNING STEP LEARNING MODELS
+basicRun
+======================================
+Total score:  58.0
+Total score:  44.0
+Total score:  70.0
+Total score:  70.0
+Total score:  70.0
+Total score:  70.0
+Total score:  70.0
+Total score:  82.0
+Total score:  70.0
+Total score:  82.0
+defendTheCenter
+======================================
+Total score:  2.0
+Total score:  1.0
+Total score:  3.0
+Total score:  2.0
+Total score:  1.0
+Total score:  3.0
+Total score:  3.0
+Total score:  3.0
+Total score:  0.0
+Total score:  2.0
+healthGathering
+======================================
+Total score:  282.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+Total score:  283.0
+deadlyCorridor
+======================================
+Total score:  136.60780334472656
+Total score:  390.3424530029297
+Total score:  95.755615234375
+Total score:  120.37571716308594
+Total score:  119.40585327148438
+Total score:  390.0097351074219
+Total score:  393.14231872558594
+Total score:  83.26791381835938
+Total score:  82.23844909667969
+Total score:  458.7573699951172
+myWayHome
+======================================
+Total score:  -0.20979999999999321
+Total score:  -0.20979999999999321
+Total score:  -0.20979999999999321
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+Total score:  -0.2098999999999932
+defendTheLine
+======================================
+Total score:  16.0
+Total score:  5.0
+Total score:  10.0
+Total score:  5.0
+Total score:  8.0
+Total score:  4.0
+Total score:  5.0
+Total score:  4.0
+Total score:  10.0
+Total score:  4.0
+predictPosition
+======================================
+Total score:  -0.05600000000000004
+Total score:  -0.05600000000000004
+Total score:  -0.06800000000000005
+Total score:  -0.05600000000000004
+Total score:  -0.06800000000000005
+Total score:  -0.05600000000000004
+Total score:  -0.06800000000000005
+Total score:  -0.06800000000000005
+Total score:  -0.06800000000000005
+Total score:  -0.06800000000000005
+rocketBasic
+======================================
+Total score:  65.0
+Total score:  65.0
+Total score:  53.0
+Total score:  65.0
+Total score:  65.0
+Total score:  -26.0
+Total score:  12.0
+Total score:  65.0
+Total score:  24.0
+Total score:  12.0
+takeCover
+======================================
+Total score:  128.0
+Total score:  258.0
+Total score:  110.0
+Total score:  204.0
+Total score:  149.0
+Total score:  186.0
+Total score:  186.0
+Total score:  131.0
+Total score:  165.0
+Total score:  279.0

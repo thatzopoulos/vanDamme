@@ -18,11 +18,13 @@ VanDamme was written and tested on a Linux machine using the Anaconda environmen
 
     .
     ├── bashScripts     # Bash Scripts to Load and Save Multiple Models
-    ├── Models          # Pretrained Models
-    ├── previousRuns    #Text files of output of previous runs
-    ├── Scenarios       #Scenarios and wad files to load
+    ├── models          # Pretrained Models
+    ├── previousRuns    # Text files of full output of previous runs
+    ├── researchpapers  # Example Research Papers on vizdoom training and DQN
+    ├── scenarios       # Scenarios and wad files to load
     ├── vanDamme.py     # Main File
     ├── pytorch.yaml    # Anaconda yaml file
+    ├── Doom2.wad    	# Assets from original Doom 2, all models were trained using this   
     └── README.md
 
 ## Train a model
@@ -46,6 +48,3 @@ python vanDamme.py
 --set_to_shaping "False"
 --doom2_wad "Doom2.wad"
 ```
-
-## Acknowledgements
-The map and scenario files have been borrowed from the ViZDoom repository. Doom2.wad was obtained from a purchased copy of Doom 2.

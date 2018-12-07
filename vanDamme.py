@@ -89,6 +89,13 @@ epochs = args.epochs
 
 learning_steps_per_epoch = args.learning_steps_per_epoch
 
+
+# STEP LEARNING
+#learning_step = .1
+#if epochs % 5:
+#    learning_rate = learning_step*learning_rate
+
+
 model_savefile = args.model_savefile
 config_file_path = args.scenario_config
 

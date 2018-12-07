@@ -12,7 +12,7 @@ Arnold is a PyTorch implementation of a VizDoom bot trained using Deep Q Reinfor
 ## Installation
 
 #### Dependencies
-VanDamme was written and tested on a Linux machine using the Anaconda environment found in: pytorch.yaml
+VanDamme was written and tested on a Linux machine and all dependencies can be installed using the Anaconda environment yaml file: pytorch.yaml
 
 ## Code structure
 

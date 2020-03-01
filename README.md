@@ -1,6 +1,6 @@
 # VanDamme
 
-Arnold is a PyTorch implementation of a VizDoom bot trained using Deep Q Reinforcement Learning.
+VanDamme is a PyTorch implementation of a VizDoom bot trained using Deep Q Reinforcement Learning.
 
 
 ### This repository contains:
